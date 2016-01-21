@@ -31,6 +31,11 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 
+/*
+*Author:huangguoxiong
+*Date:20160121
+*/
+
 public class ScreenCaptureImageActivity extends Activity {
 
     private static final String TAG = ScreenCaptureImageActivity.class.getName();
